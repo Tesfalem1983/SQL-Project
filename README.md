@@ -16,9 +16,13 @@
 
 ## Challenges 
    ###  A lot of missing data that would not allow us to measure some of the major metrics.(Such us website visitors conversion rate,             customer retention rate, bounce rate, ROI, and others.)
-   ###  
-
-
+   ###  Finding unique identifier to establish relationship between tables.
 
 ## Future Goals
-(what would you do if you had more time?)
+   ### Re-explore the data for further structuring that suits our business requirement.
+   ### Find ways to improve data quality through working closely with the upstream departments in the data pipeline.
+   ### Recommending Constraints in the database to improve consistency in data collection.
+
+
+
+
